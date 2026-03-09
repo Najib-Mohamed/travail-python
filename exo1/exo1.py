@@ -1,0 +1,1 @@
+print("Bienvenue  dans la formation python !")
